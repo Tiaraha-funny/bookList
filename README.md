@@ -7,4 +7,3 @@ With this project, I use vanilla Js. The users can add news list of book, can ma
 This is the link of it:
 
 []()
-
